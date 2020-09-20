@@ -132,7 +132,7 @@ app.set('roomList', roomList)
 app.use('/room', roomRouter)
 
 app.get('/', (req, res) => {
-  res.redirect('/room/@demo')
+  res.redirect('/room/@home')
 });
 app.get('/filter', (req, res) => {
   const { q } = req.query
