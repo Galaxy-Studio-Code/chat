@@ -21,6 +21,7 @@
     "socket.io": "2.3.0",
     "sqlite3": "^5.0.0",
     "xss": "^1.0.8",
-    "firebase": "^7.21.0"
+    "firebase": "^7.21.0",
+    "yargs-parser": "^13.1.2"
   }
 }
